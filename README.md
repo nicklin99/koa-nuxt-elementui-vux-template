@@ -2,7 +2,7 @@
 
 > [KoaJS](http://koajs.com/) + [Nuxt.js](https://nuxtjs.org) = :zap:
 
-基于 [nuxt-community/koa-template](https://github.com/nuxt-community/koa-template)组装的一个移动端h5和后台管理项目开始模板
+基于 [nuxt-community/koa-template](https://github.com/nuxt-community/koa-template)组装的一个移动端h5和后台管理项目开始模板.
 
 主要包
 
