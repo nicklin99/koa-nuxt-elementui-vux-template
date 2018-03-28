@@ -61,22 +61,22 @@ npm run dev
 仅h5
 
 ```bash
-npm run dev:h5
+npm run dev:h5
 ```
 
 仅admin
 
 ```bash
-npm run dev:admin
+npm run dev:admin
 ```
 
-打包构建js
+生产模式打包
 
 - npm run build
 - npm run build:h5
 - npm run build:admin
 
-部署生产服务器
+生产模式部署
 
 - npm run start
 - npm run start:h5
