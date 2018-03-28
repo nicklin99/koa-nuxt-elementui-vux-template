@@ -35,7 +35,7 @@ npm install
 git clone仓库，没有git的先安装 git
 
 ```bash
-git clone
+git clone https://github.com/nicklin99/koa-nuxt-elementui-vux-template.git
 npm install
 ```
 
