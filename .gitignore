@@ -15,3 +15,6 @@ dist
 
 admin/package-lock.json
 h5/package-lock.json
+
+# mac
+.DS_Store
