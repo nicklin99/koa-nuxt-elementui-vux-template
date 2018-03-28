@@ -2,7 +2,7 @@
 
 > [KoaJS](http://koajs.com/) + [Nuxt.js](https://nuxtjs.org) = :zap:
 
-基于 [nuxt-community/koa-template](https://github.com/nuxt-community/koa-template)组装的一个移动端h5和后台管理项目开始模板.
+基于 [nuxt-community/koa-template](https://github.com/nuxt-community/koa-template)组装的一个移动端h5和后台管理项目开始模板.
 
 主要包
 
@@ -32,7 +32,7 @@ npm install
 
 2.github安装
 
-clone git仓库，没有git的先安装 git
+git clone仓库，没有git的先安装 git
 
 ```bash
 git clone
