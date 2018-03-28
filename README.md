@@ -17,7 +17,7 @@
 - 后台使用element-ui库
 - h5使用vux ui库
 - koa web开发框架
-- 服务端渲染 nuxt
+- 服务端渲染nuxt
 - 开箱即可
 
 ## 安装
@@ -55,7 +55,7 @@ npm run link
 h5 and admin
 
 ```bash
-npm run dev
+npm run dev
 ```
 
 仅h5
