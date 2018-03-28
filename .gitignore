@@ -12,7 +12,7 @@ h5/.nuxt
 dist
 
 # package-lock.json
-
+package-lock.json
 admin/package-lock.json
 h5/package-lock.json
 
