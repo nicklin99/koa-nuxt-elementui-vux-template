@@ -25,7 +25,7 @@
 1.通过[vue-cli](https://github.com/vuejs/vue-cli) 安装
 
 ```bash
-vue init nicklin99/koa-nuxt-elementui-vux <project-name>
+vue init nicklin99/koa-nuxt-elementui-vux-template <project-name>
 cd <project-name> # 切换到项目目录
 npm install
 ```
